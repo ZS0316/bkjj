@@ -1,0 +1,28 @@
+#name: "zhangsan"
+
+#value: {name: "lisi"}
+
+#value: 张三
+#value: #多层级关系
+#  name: 里斯
+#  name1: 王五
+
+#value3:
+#  - 1
+#  - 2
+
+#value4:
+#  - name: 找死
+#  - value: 厕所
+
+
+#valur5: True
+#value6: false
+
+#value7: 150
+#value8: 12.0055
+
+#value9: ~
+#value10:
+#value11: Null
+value12: 2019-11-11 12:02:03
